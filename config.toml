@@ -2,3 +2,38 @@ baseURL = "https://kumasento.github.io"
 languageCode = "en-gb"
 title = "Ruizhe Zhao / kumasento"
 theme = "cupper"
+enableGitInfo = true
+
+[taxonomies]
+tag = "tags"
+
+[permalinks]
+post = "/:filename/"
+
+[imaging]
+quality = 99
+
+[params]
+footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [GitHub Pages](https://pages.github.com/)."
+search = true
+dateFormat = "Jan 2, 2006"
+
+[[menu.nav]]
+name = "Home"
+url = "/"
+weight = "1"
+
+[[menu.nav]]
+name = "Blog"
+url = "/post/"
+weight = 2
+
+[[menu.nav]]
+name = "About"
+url = "/about/"
+weight = 4
+
+[[menu.nav]]
+name = "RSS"
+url = "/index.xml"
+weight = 5
