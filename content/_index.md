@@ -11,6 +11,5 @@ I am blessed to work with wonderful colleagues in the past few years: I was an i
 
 On many programming platforms I use the ID _kumasento_. I do practice competitive programming recently, watch my [progress](https://clist.by/coder/kumasento/)!
 
-Learn more about me on my [Twitter](https://twitter.com/zehziur), [GitHub](https://github.com/kumasento), [Google Scholar](https://scholar.google.co.uk/citations?user=RX1JK2IAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/ruizhe-zhao-90179983/).
-
+Learn more [about](/about) me on my [Twitter](https://twitter.com/zehziur), [GitHub](https://github.com/kumasento), [Google Scholar](https://scholar.google.co.uk/citations?user=RX1JK2IAAAAJ&hl=en), [LinkedIn](https://www.linkedin.com/in/ruizhe-zhao-90179983/).
 
