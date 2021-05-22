@@ -16,6 +16,7 @@ quality = 99
 [params]
 footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [GitHub Pages](https://pages.github.com/)."
 search = true
+katex = true
 dateFormat = "Jan 2, 2006"
 
 [[menu.nav]]
@@ -37,3 +38,38 @@ weight = 4
 name = "RSS"
 url = "/index.xml"
 weight = 5
+
+[markup]
+defaultMarkdownHandler = "goldmark"
+
+[markup.goldmark.extensions]
+definitionList = true
+footnote = true
+linkify = true
+strikethrough = true
+table = true
+taskList = true
+typographer = true
+
+[markup.goldmark.parser]
+attribute = true
+autoHeadingID = true
+
+[markup.goldmark.renderer]
+hardWraps = false
+unsafe = true
+xHTML = false
+
+[markup.highlight]
+codeFences = false
+hl_Lines = ""
+lineNoStart = 1
+lineNos = false
+lineNumbersInTable = true
+noClasses = true
+style = "monokai"
+tabWidth = 4
+
+[markup.tableOfContents]
+endLevel = 6
+startLevel = 2
