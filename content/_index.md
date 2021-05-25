@@ -3,7 +3,7 @@ date: "2021-05-22"
 title: "Ruizhe Zhao / kumasento"
 ---
 
-> You can find my [CV](/cv/CV-Ruizhe-2021-05-MLE.pdf) for more details!
+> You can find my [CV](/cv/CV-Ruizhe.pdf) for more details!
 
 
 Hi there! I'm Ruizhe, a final year PhD student at the [Department of Computing](https://www.imperial.ac.uk/computing/), [Imperial College London](https://imperial.ac.uk), working with [Prof. Wayne Luk](https://www.doc.ic.ac.uk/~wl/). My research is to make [Deep Neural Networks](https://en.wikipedia.org/wiki/Deep_learning) (DNNs) run faster on [Field-Programmable Gate Arrays](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGAs), with a specific focus on [compiler](https://en.wikipedia.org/wiki/Compiler)-based techniques.
