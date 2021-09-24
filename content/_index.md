@@ -3,6 +3,8 @@ date: "2021-05-22"
 title: "Ruizhe Zhao / kumasento"
 ---
 
+> News (2021-09-09): I will join DeepMind, London as a Research Engineer in the Applied team next January!
+
 > You can find my [CV](/cv/CV-Ruizhe.pdf) for more details!
 
 
